@@ -3,7 +3,7 @@ one = (int(input("Side length 1: ")))
 two = (int(input("Side length 2: ")))
 three = (int(input("Side length 3: ")))
 
-#These variables determin which side length is the longest and if the figure if=s a triangle
+#These variables determin which side length is the longest and if the figure is a triangle
 if one>two and three and two+three < one:
   print("This figure is not a triangle")
 
